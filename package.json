@@ -1,0 +1,20 @@
+{
+    "name": "Twitter-Username-Prediction-by-Tweets",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweets.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweets/issues"
+    },
+    "homepage": "https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweets#readme"
+}
