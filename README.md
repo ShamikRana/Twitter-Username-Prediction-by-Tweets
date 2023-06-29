@@ -29,18 +29,18 @@ This project is based on an NLP model designed to classify and predict the polit
 - Model is trained with LSTM neural network
 
 # Visulisation
-![Most Used Words by AAP Twitter Acount](https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweet/blob/main/images/__results___9_0.png)
-![Most Used Words by BJP Twitter Acount](https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweet/blob/main/images/__results___9_1.png)
-![Most Used Words by INC Twitter Acount](https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweet/blob/main/images/__results___9_2.png)
+![Most Used Words by AAP Twitter Acount](images/__results___9_0.png)
+![Most Used Words by BJP Twitter Acount](images/__results___9_1.png)
+![Most Used Words by INC Twitter Acount](images/__results___9_2.png)
 
 # Findings
 The architecture and parameters used in this neural network are capable of producing an accuracy of 94% on Test Data
 
 # Creating Web API using Flask
 - Created backend using Flask and web page using HTML to provide an interface to the LSTM-RNN model
-![home](https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweet/blob/main/images/home%20page.png)
+![home](images/home%20page.png)
 
-![predict](https://github.com/ShamikRana/Twitter-Username-Prediction-by-Tweet/blob/main/images/predicted%20page.png)
+![predict](images/predicted%20page.png)
 
 # How to Use 
 - Fork this repository to have your own copy
