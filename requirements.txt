@@ -147,7 +147,6 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.9.0
 tensorflow-datasets==4.7.0
 tensorflow-estimator==2.9.0
-tensorflow-intel==2.9.0
 tensorflow-io-gcs-filesystem==0.27.0
 tensorflow-metadata==1.11.0
 tensorflow-recommenders==0.7.2
