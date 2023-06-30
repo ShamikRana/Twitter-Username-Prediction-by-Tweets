@@ -45,4 +45,5 @@ The architecture and parameters used in this neural network are capable of produ
 # How to Use 
 - Fork this repository to have your own copy
 - Clone your copy on your local system
-- Install necessary packages
+- Install necessary packages from requirements.txt file
+- run app.py file
