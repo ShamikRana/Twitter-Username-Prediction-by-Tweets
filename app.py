@@ -1,16 +1,9 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from wordcloud import WordCloud
 import re
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
-from keras.models import Sequential
-from keras.layers import Embedding, LSTM, Dense
 from keras.preprocessing.text import Tokenizer
 from keras.utils import pad_sequences
 from keras.models import load_model
